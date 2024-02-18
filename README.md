@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @EELLOOOO
+- 👋 Hi, I’m @LouayBenNasr
 - 👀 I’m interested in coding and learning new things continuously
-- 🌱 I’m currently learning python, C, Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, C,C++,SQL
+
 
 <!---
 EELLOOOO/EELLOOOO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
